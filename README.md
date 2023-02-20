@@ -1,3 +1,6 @@
+# Dev Comments
+Just testing Opera GX Mods, what I'm doing will mainly be in the test branch. If this interests you check out https://github.com/opera-gaming/gxmods and fork there. Will keep Opera's explaination down below this
+
 # What are Opera GX Mods?
 
 ![GXMods](images/gxmods.png)
